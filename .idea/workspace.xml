@@ -5,17 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8794bfac-4013-4a14-9cbb-88f306e7aa2a" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/front" beforeDir="false" afterPath="$PROJECT_DIR$/front" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/axios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/mock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/views/Login/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/views/Login/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/index/pictures/welcome.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/creatuser.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/insertuser.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/com/bookstore/back/BackApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/com/bookstore/back/config/GlobalCorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/com/bookstore/back/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/com/bookstore/back/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/com/bookstore/back/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/com/bookstore/back/repository/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/com/bookstore/back/request/LoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/com/bookstore/back/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/com/bookstore/back/service/serviceImpl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/com/bookstore/back/utils/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/test/java/com/bookstore/back/BackApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/alipay.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/paypart/img/alipay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/wechatpay.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/paypart/img/wechatpay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Login/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Login/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Login/register.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/index/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/index/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pay.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/paypart/pay.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,9 +78,50 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Idea\\IntelliJ IDEA 2023.3.5\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;数据库脚本.books.sql.executor&quot;: &quot;Run&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora_aws&quot;
+    ],
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;d4f3d30f-103c-40fd-98bd-abb0005e3579&quot;
+    ],
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86182\Desktop\作业\软件工程实践\front\src\views\paypart\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="books.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/books.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="d4f3d30f-103c-40fd-98bd-abb0005e3579" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="数据库脚本.books.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -58,10 +134,26 @@
       <workItem from="1727603657759" duration="629000" />
       <workItem from="1727604294057" duration="100000" />
       <workItem from="1727604401456" duration="627000" />
+      <workItem from="1728444624678" duration="50000" />
+      <workItem from="1728445097702" duration="60000" />
+      <workItem from="1728445170474" duration="344000" />
+      <workItem from="1728445604089" duration="361000" />
+      <workItem from="1728446118600" duration="1165000" />
+      <workItem from="1728455006017" duration="2968000" />
+      <workItem from="1728469486183" duration="17000" />
+      <workItem from="1728473707570" duration="2107000" />
+      <workItem from="1728519122159" duration="4425000" />
+      <workItem from="1728532848951" duration="571000" />
+      <workItem from="1728549140170" duration="2911000" />
+      <workItem from="1728559945485" duration="5274000" />
+      <workItem from="1729088255202" duration="2093000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>

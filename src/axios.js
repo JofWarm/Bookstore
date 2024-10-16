@@ -19,7 +19,7 @@ request.interceptors.response.use(response => {
 
     let res = response.data
 
-    if (res.code === 200){
+    if (res.code === "0"){
         return response
     } else{
         Element.Message.error(res.msg?res.msg:'系统异常')

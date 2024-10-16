@@ -2,14 +2,14 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Login from '../views/Login/Login.vue'
+import OrderPage from '../views/index/orders.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: Home
+    redirect:'/login'
   },
   {
     path: '/login',
@@ -29,16 +29,30 @@ const routes = [
     path:'/pay',
     name:'pay',
     component: function () {
-      return import('../views/pay.vue')
+      return import('../views/paypart/pay.vue')
     }
   },
   {
-    path:'/register',
-    name:'register',
+    path: '/order',
+    name: 'OrderPage',
+    component: OrderPage
+  },
+  {
+    path:'/pay/alipay',
+    name:'pay',
     component: function () {
-      return import('../views/Login/register.vue')
+      return import('../views/paypart/alipay.vue')
     }
-  }
+  },
+  {
+    path:'/pay/wechat',
+    name:'pay',
+    component: function () {
+      return import('../views/paypart/wechat.vue')
+    }
+  },
+
+
 ]
 
 const router = new VueRouter({

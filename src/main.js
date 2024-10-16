@@ -7,13 +7,12 @@ import axios from './axios'
 import Element from "element-ui"
 import "element-ui/lib/theme-chalk/index.css"
 
-
-
+axios.defaults.baseURL = 'http://localhost:8081';
 
 Vue.use(Element)
+
 Vue.prototype.$axios = axios
 
-require("./mock.js")
 
 Vue.config.productionTip = false
 
